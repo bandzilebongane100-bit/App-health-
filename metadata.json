@@ -1,0 +1,6 @@
+{
+  "name": "Symptom AI Analyzer",
+  "description": "An AI-powered symptom analyzer and sickness diagnostic assistant that helps users understand their symptoms through a conversational chat interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
